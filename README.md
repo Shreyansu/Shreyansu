@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working **on an Android project**
 
-- 📄 I build Android Application with java.
+- 📄 I build Android Application with java and Kotlin.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyansu/](https://github.com/Shreyansu/)
 
-- 💬 Ask me about **Java,Firebase,Android development,Data Structures and Algorithms,OOPS**
+- 💬 Ask me about **Java,Kotlin,Firebase,Android development,Data Structures and Algorithms,OOPS**
 
 - 📫 How to reach me **sraj221099@gmail.com**
 
